@@ -1,12 +1,9 @@
-## Hi there 👋
+## 🐒 Olá amigos visitantes! 🐒
 
-<!--
+Essa organização se destina em ser um espaço _sandbox_ para qualquer tipo de experimento envolvendo programação com intuitos científicos. Todos os membros são livres para criar qualquer tipo de projeto e utilizar qualquer tecnologia disponível no sistema solar (com exceção de microC).
 
-**Here are some ideas to get you started:**
+<br>
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> [!NOTE]  
+> Nenhum conteúdo armazenado ou manipulado nessa organização tem cunho racista e todos os membros repudiam esse tipo de comportamento.
